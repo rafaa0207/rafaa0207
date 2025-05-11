@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! 👋 Sou o Rafael
 
-<!--
-**rafaa0207/rafaa0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ciência da Computação (UniCEUB)  💡 Sempre apto a ser melhor  🚀 Explorando erros de código!
 
-Here are some ideas to get you started:
+## 💻 Tecnologias usadas
+- C, HTML e SQL
+- VS Code 
+- Git e GitHub 
+- Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaa0207&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" style="width: 48%; box-sizing: border-box; margin: 0; padding: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaa0207&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 48%; box-sizing: border-box; margin: 0; padding: 0;" />
+</div>
+
+## 📬 Onde me encontrar
+- 📧 Email: rafacastro0207@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-castro-354364338/
